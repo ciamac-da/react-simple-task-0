@@ -1,5 +1,4 @@
-#react simple task 0
-          https://ciamac-da.github.io/react-simple-task-0/
+React simple task 0 ==> https://ciamac-da.github.io/react-simple-task-0/
 
           1- Create TWO new components: UserInput and UserOutput.
           
