@@ -2,12 +2,12 @@ React simple task 0 ==> https://ciamac-da.github.io/react-simple-task-0/
 
 
        EN
-          0- Create a React App. Make 2 new Folders in src called components and containers, put App.css, App.js and 
-          App.test.js file inside of containers folder.
+          0- Create a React App. Make 2 new Folders in src called components and containers, put App.css, App.js and App.test.js file inside of containers folder.
 
           1- Create TWO new components(UserInput and UserOutput) inside of components folder.
           
-          2- UserInput should hold an input element, UserOutput two paragraphs.
+          2- UserInput should hold an input element, UserOutput two paragraphs. In App.js 
+          you have to use Class-Components function. 
           
           3- Output multiple UserOutput components in the App component (any paragraph texts of your  choice).
           
@@ -25,6 +25,8 @@ React simple task 0 ==> https://ciamac-da.github.io/react-simple-task-0/
           
           10- Add styling of your choice to your components/ elements in the components - both with inline styles and stylesheets.
 
+          11- Try to make a new Branch and refactor Class-Component to a Functional-Compenent in App.js
+
 
 
        DE 
@@ -32,7 +34,8 @@ React simple task 0 ==> https://ciamac-da.github.io/react-simple-task-0/
 
           1- Erstelle  ZWEI neue Komponenten(UserInput und UserOutput) im components Ordner.
 
-          2- UserInput sollte ein Eingabeelement enthalten, UserOutput zwei Absätze.
+          2- UserInput sollte ein Eingabeelement enthalten, UserOutput zwei Absätze. In App.js.
+          muss du die Klassencomponente verwenden.
 
           3- Gib mehrere UserOutput-Komponenten in der App-Komponente aus (beliebige Absatztexte deiner Wahl).
 
@@ -49,3 +52,5 @@ React simple task 0 ==> https://ciamac-da.github.io/react-simple-task-0/
           9- Füge deiner Eingabe (in UserInput) eine bidirektionale Bindung hinzu, um auch den Startbenutzernamen anzuzeigen.
 
           10- Füge deinen Komponenten / Elementen in den Komponenten ein Styling Ihrer Wahl hinzu - sowohl mit Inline-Stilen als auch mit Stylesheets.
+
+          11- Versuch einen neuen Branch zu bauen, und versuch mal in App.js eine Klassenkomponente zu einer Funktionskomponente umustellen.
