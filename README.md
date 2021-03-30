@@ -2,7 +2,7 @@ React simple task 0 ==> https://ciamac-da.github.io/react-simple-task-0/
 
 
        EN
-          0- Make 2 new Folders in src called components and containers, put App.css, App.js and 
+          0- Create a React App. Make 2 new Folders in src called components and containers, put App.css, App.js and 
           App.test.js file inside of containers folder.
 
           1- Create TWO new components(UserInput and UserOutput) inside of components folder.
@@ -28,7 +28,7 @@ React simple task 0 ==> https://ciamac-da.github.io/react-simple-task-0/
 
 
        DE 
-          0- Erstelle  2 neue Ordner in src, die als components und containers bezeichnet werden, und setze  App.css, App.js und App.test.js-Datei im containders-Ordner.
+          0- Baue eine React App. Erstelle  2 neue Ordner in src, die als components und containers bezeichnet werden, und setze  App.css, App.js und App.test.js-Datei im containders-Ordner.
 
           1- Erstelle  ZWEI neue Komponenten(UserInput und UserOutput) im components Ordner.
 
