@@ -1,6 +1,10 @@
 React simple task 0 ==> https://ciamac-da.github.io/react-simple-task-0/
 
-          1- Create TWO new components: UserInput and UserOutput.
+       EN
+          0- Make 2 new Folders in src called components and containers, put App.css, App.js and 
+          App.test.js file inside of containers folder.
+
+          1- Create TWO new components(UserInput and UserOutput) inside of components folder.
           
           2- UserInput should hold an input element, UserOutput two paragraphs.
           
@@ -19,3 +23,28 @@ React simple task 0 ==> https://ciamac-da.github.io/react-simple-task-0/
           9- Add two-way-binding to your input (in UserInput) to also display the starting username.
           
           10- Add styling of your choice to your components/ elements in the components - both with inline styles and stylesheets.
+
+
+
+       DE 
+          0- Erstelle  2 neue Ordner in src, die als components und containers bezeichnet werden, und setze  App.css, App.js und App.test.js-Datei im containders-Ordner.
+
+          1- Erstelle  ZWEI neue Komponenten(UserInput und UserOutput) im components Ordner.
+
+          2- UserInput sollte ein Eingabeelement enthalten, UserOutput zwei Absätze.
+
+          3- Gib mehrere UserOutput-Komponenten in der App-Komponente aus (beliebige Absatztexte deiner Wahl).
+
+          4- Übergebe einen Benutzernamen (Ihrer Wahl) über Requisiten an UserOutput und zeig ihn dort an.
+
+          5- Füge  der App-Komponente den Status hinzu (=> den Benutzernamen) und übergebe den Benutzernamen an die UserOutput-Komponente.
+
+          6- Füge eine Methode zum Bearbeiten des Status hinzu (=> eine Event-Handler-Methode).
+
+          7- Übergebe die Event-Handler-Methodenreferenz an die UserInput-Komponente und binde sie an das Input-Change-Ereignis.
+
+          8- Stell sicher, dass die vom Benutzer eingegebene neue Eingabe den alten Benutzernamen überschreibt, der an UserOutput übergeben wurde.
+
+          9- Füge deiner Eingabe (in UserInput) eine bidirektionale Bindung hinzu, um auch den Startbenutzernamen anzuzeigen.
+
+          10- Füge deinen Komponenten / Elementen in den Komponenten ein Styling Ihrer Wahl hinzu - sowohl mit Inline-Stilen als auch mit Stylesheets.
