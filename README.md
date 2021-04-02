@@ -54,3 +54,6 @@ React simple task 0 ==> https://ciamac-da.github.io/react-simple-task-0/
           10- Füge deinen Komponenten / Elementen in den Komponenten ein Styling Ihrer Wahl hinzu - sowohl mit Inline-Stilen als auch mit Stylesheets.
 
           11- Versuch einen neuen Branch zu bauen, und versuch mal in App.js eine Klassenkomponente zu einer Funktionskomponente umustellen.
+
+![](readmeImage/1.jpg)
+![](readmeImage/2.jpg)
