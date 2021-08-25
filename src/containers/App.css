@@ -30,7 +30,13 @@ body{
   margin: auto;
   border-radius: 20px;
   padding: 5px;
-  margin-bottom: 20px !important;
+  position: relative;
+}
+.span {
+  color: white;
+  position: absolute;
+  right: 10px;
+  top:5px;
 }
 
 .myP{
